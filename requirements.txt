@@ -1,0 +1,4 @@
+jenkinsapi==0.2.29
+pytz==2015.7
+requests==2.9.1
+wheel==0.29.0
