@@ -1,4 +1,7 @@
-jenkinsapi==0.2.29
+multi-key-dict==2.0.3
+pbr==1.8.1
+python-jenkins==0.4.12
 pytz==2015.7
 requests==2.9.1
+six==1.10.0
 wheel==0.29.0
