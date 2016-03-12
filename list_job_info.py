@@ -5,8 +5,6 @@ from jenkins import Jenkins
 from optparse import OptionParser
 import getpass
 
-import re
-
 import pprint
 
 def list_job_info(server, jobName):
